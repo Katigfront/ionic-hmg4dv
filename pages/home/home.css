@@ -1,0 +1,22 @@
+ion-content {
+    background: linear-gradient(to bottom,#0F2027, #203A43, #2C5364);
+}
+
+h2 {
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+p {
+  color: aliceblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+ion-item {
+  background: dimgray;
+  color: aliceblue;
+}
+
+button {
+  background: cornflowerblue;
+}
